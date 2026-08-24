@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a basic recipes website as part of The Odin Project syllabus

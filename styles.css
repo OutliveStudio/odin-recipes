@@ -1,0 +1,26 @@
+/* {
+    border: 2px solid red;
+}
+*/
+
+.button {
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.listNav {
+    width: 500px;
+    margin: 0 auto;
+    list-style: none;
+    padding-left: 0px;
+    text-align: center;
+}   
+
+h1.centeredTitle {
+    text-align: center;
+}
